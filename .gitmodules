@@ -1,0 +1,3 @@
+[submodule "GLMspiketraintutorial_python"]
+	path = GLMspiketraintutorial_python
+	url = https://github.com/pillowlab/GLMspiketraintutorial_python.git
